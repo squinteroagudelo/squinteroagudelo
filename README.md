@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @squinteroagudelo
 - 👀 I’m interested in web development, software development and Ethical Hacking
-- 🌱 I’m currently learning Python, C#, Java, NodeJS
+- 🌱 I’m currently learning Python, C#, Java, NodeJS, Clean Architecture, Reactive Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me squinteroagudelo18@gmail.com
 
